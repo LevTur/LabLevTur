@@ -1,4 +1,5 @@
-﻿#include <iostream>
+// Лабораторная работа №1
+#include <iostream>
 #include <vector>
 #include <Windows.h>
 
